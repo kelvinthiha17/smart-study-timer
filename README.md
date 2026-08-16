@@ -62,15 +62,15 @@ Full properties and quantities in the [bill of materials](#bill-of-materials) be
 | S1 | Momentary pushbutton | 12mm tactile |
 | SG1 | Buzzer | 12mm, 2-pin |
 
-Full bill of materials with all properties: [`circuit-diagram/study_timer_circuit_bom.html`](circuit-diagram/study_timer_circuit_bom.html)
+Full bill of materials with all properties: [`Circuit diagram/study_timer_circuit_bom.html`](Circuit%20diagram/study_timer_circuit_bom.html)
 
 ## Circuit diagram
 
 Full schematic and breadboard-view diagrams were built in [Fritzing](https://fritzing.org/) to document the wiring.
 
-![Fritzing breadboard view](circuit-diagram/study_timer_circuit_bb.png)
+![Fritzing breadboard view](Circuit%20diagram/study_timer_circuit_bb.png)
 
-Editable project file: [`circuit-diagram/study_timer_circuit.fzz`](circuit-diagram/study_timer_circuit.fzz)
+Editable project file: [`Circuit diagram/study_timer_circuit.fzz`](Circuit%20diagram/study_timer_circuit.fzz)
 
 ## Software design notes
 
@@ -88,7 +88,7 @@ Editable project file: [`circuit-diagram/study_timer_circuit.fzz`](circuit-diagr
 
 ```
 ├── Core/Src/main.c                          # Firmware
-├── circuit-diagram/
+├── Circuit diagram/
 │   ├── study_timer_circuit.fzz              # Editable Fritzing project
 │   ├── study_timer_circuit_bb.png           # Breadboard-view diagram
 │   └── study_timer_circuit_bom.html         # Full bill of materials
