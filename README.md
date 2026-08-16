@@ -62,7 +62,7 @@ Full properties and quantities in the [bill of materials](#bill-of-materials) be
 | S1 | Momentary pushbutton | 12mm tactile |
 | SG1 | Buzzer | 12mm, 2-pin |
 
-Full bill of materials with all properties: [`Circuit diagram/study_timer_circuit_bom.html`](Circuit%20diagram/study_timer_circuit_bom.html)
+Full bill of materials with all properties: [study_timer_circuit_bom.html](https://htmlpreview.github.io/?https://github.com/kelvinthiha17/smart-study-timer/blob/main/Circuit%20diagram/study_timer_circuit_bom.html)
 
 ## Circuit diagram
 
